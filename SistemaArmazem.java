@@ -23,7 +23,7 @@ public class SistemaArmazem {
     static Scanner sc = new Scanner(System.in);
 
     public static void main(String[] args) {
-        // Dados de exemplo
+        
         produtos.add(new Produto("P001", "Notebook", "Eletrônicos", 15, 3500.00));
         produtos.add(new Produto("P002", "Mouse", "Eletrônicos", 50, 89.90));
         produtos.add(new Produto("P003", "Cadeira", "Móveis", 8, 1200.00));
